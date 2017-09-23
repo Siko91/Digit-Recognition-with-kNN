@@ -15,28 +15,32 @@ It will write it's acuracy and point to the found mistakes.
 
 Example output:
 
-> Num #0 : 100% accuracy
-Num #1 : 100% accuracy
-Num #2 : 90% accuracy
-Num #3 : 64% accuracy
-Num #4 : 86% accuracy
-Num #5 : 95% accuracy
-Num #6 : 100% accuracy
-Num #7 : 100% accuracy
-Num #8 : 95% accuracy
-Num #9 : 92% accuracy
+-----------------------------------
 
-> 13/200 mistakes were found.
-Total Accuracy : 93.5 %
+   Num #0 : 100% accuracy
+   Num #1 : 100% accuracy
+   Num #2 : 90% accuracy
+   Num #3 : 64% accuracy
+   Num #4 : 86% accuracy
+   Num #5 : 95% accuracy
+   Num #6 : 100% accuracy
+   Num #7 : 100% accuracy
+   Num #8 : 95% accuracy
+   Num #9 : 92% accuracy
 
-> MISTAKES:0 : []
-1 : []
-2 : [9, 9]
-3 : [9, 8, 9, 5, 8]
-4 : [7, 1, 7]
-5 : [9]
-6 : []
-7 : []
-8 : [6]
-9 : [7]
+   13/200 mistakes were found.
+   Total Accuracy : 93.5 %
 
+   MISTAKES:
+   0 : []
+   1 : []
+   2 : [9, 9]
+   3 : [9, 8, 9, 5, 8]
+   4 : [7, 1, 7]
+   5 : [9]
+   6 : []
+   7 : []
+   8 : [6]
+   9 : [7]
+
+-----------------------------------
